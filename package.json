@@ -1,5 +1,5 @@
 {
-  "name": "colorify-console",
+  "name": "@anshu619/colorify-console",
   "version": "1.0.0",
   "description": "**Beautify Console** is a JavaScript package designed to enhance your console logs by applying different colors and background colors to improve readability and highlight important messages.",
   "main": "lib/index.js",
