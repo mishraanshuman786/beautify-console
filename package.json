@@ -1,0 +1,34 @@
+{
+  "name": "beautify-console",
+  "version": "1.0.0",
+  "description": "**Beautify Console** is a JavaScript package designed to enhance your console logs by applying different colors and background colors to improve readability and highlight important messages.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "console logs",
+    "console",
+    "log error warn",
+    "beautify-console",
+    "beautify-console logs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishraanshuman786/beautify-console.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mishraanshuman786/beautify-console/issues"
+  },
+  "homepage": "https://github.com/mishraanshuman786/beautify-console#readme",
+  "author": "Anshuman Mishra <mishraanshuman619@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "lib/**/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
